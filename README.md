@@ -21,7 +21,7 @@ Isabel Erven
 #### Je startniveau:
 Blauw
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Surface plane
  
 </details>
 
@@ -75,30 +75,12 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+In week 1 had ik nog niet veel gedaan aan mijn code. Ik had uitgezocht welke lettertypes mijn site gebruikt, maar verder niks anders. Dit kwam doordat ik half week 1 en week 2 behoorlijk ziek was.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+Door mijn ziekheid was ik niet aanwezig bij de eerste meeting.
+ 
 </details>
-
-
 
 
 
@@ -108,26 +90,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Week twee begoon ik eindelijk aan mijn code. Ik de html van de eerste site geschreven en de goede lettertypes hierop toegepast.
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
+ 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Na de meeting met de docent kreeg ik voornamelijk als advies om goed te werk te gaan deze week. Ik liep namelijk erg achter. Het idee was dat ik per les te werk moest gaan om zo alles in een goede volgorde een beetje in te halen.
 
 </details>
 
@@ -179,17 +146,6 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
