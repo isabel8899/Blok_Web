@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap" rel="stylesheet"> 
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet"> 
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap" rel="stylesheet"> 
+
+    <title>reserveren spagetteria</title>
+</head>
+<body>
+    <header>		
+		<nav class="navigatie">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+                <li><a href="">Spaghetteria</a></li>
+                <li><a href="">Laboratorio</a></li>
+                <li><a href="">Impressie</a></li>
+                <li><a href="">Menu</a></li>
+                <li><a href="">Vacatures</a></li>
+				<li><a href="reserveren.html">Reserveren</a></li>
+			</ul>
+		</nav>
+
+        <div>
+			<img src="./images/logo_465x320.png" alt="Logo van restaurant Spagetteria">
+
+			<img src="./images/hamburgermenuZ.png" alt="icoon van een hamburger menu">
+		</div>
+    
+        <button> A > a </button>
+        <button class="maan"> ☾ </button> 
+        <button> ♪ </button>
+
+        <audio src="./audio/Italian.music.mp3"></audio>
+
+	</header>
+
+    <main>
+        <section>
+            <h3>Reserveren</h3>
+
+            <p>Op deze pagina kun je een plekje reserveren bij ons restaurant! </p>
+
+            <form action="./reserveren.html">
+                <fieldset>
+                    <legend>Restaurant gegevens</legend>
+
+                    <label for="personen">Aantal personen:</label>
+                    <input type="number" id="personen" value="personen" name="restaurantGegevens"  min="0" max="25" required>
+
+                    <label for="datum">Datum en tijd:</label>
+                    <input type="datetime-local" id="datum" value="datum" name="restaurantGegevens" required>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Persoons gegevens</legend>
+
+                    <label for="voornaam">Voornaam</label>
+                    <input type="text" id="voornaam" required >
+
+                    <label for="tussenvoegsel">Tussenvoegsel</label>
+                    <input type="text" id="tussenvoegsel">
+
+                    <label for="achternaam">Achternaam</label>
+                    <input type="text" id="achternaam" required>
+
+                    <label for="email">E-mail</label>
+                    <input type="email" id="email" placeholder="example@email.com" required>
+
+                    <label for="nummer">Telefoonnummer</label>
+                    <input type="tel" id="nummer" required>
+                </fieldset>
+
+                <input type="submit" value="Verstuur">
+            </form>
+            
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2019 Spaghetteria Pastabar | Designed & Developed by MIXXD.Agency</p>
+    </footer>
+
+	<script src="scripts/script.js"></script>
+</body>
+</html>
