@@ -136,15 +136,10 @@ Dit los ik op door al mijn afbeeldingen na te gaan of ik overal wel alt teksten 
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Deze week had ik al aardig wat af aan mijn eerste pagina. Het was nog wel allemaal slordig en niet perfect, maar het was een goede basis
+ 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Bij de meeting werd er advies gegeven over de makkelijkste en snelste manier om te werk te gaan, omdat er meerdere mensen achterliepen. Ook kwam ik er tijdens deze meeting achter dat ik voor een mobiel moest ontwerpen en niet voor een desktop.
 
 </details>
 
@@ -159,14 +154,22 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
+Deze week begon ik overnieuw met mijn site. Dit deed ik omdat mijn css echt een rommel was en ik dus toch voor het verkeerde schermformaat had geprogrammeerd. Uiteindelijk kreeg ik helaas niet mijn site af en ging ik voor de herkansing.
 
-### Screenshot(s)
+</details>
+
+## Herkansing
+
+<details>
+ ### Stand van zaken
+De week van de herkansing had ik lekker aangepoot met mijn website maken. Het programmeren liep behoorlijk goed en ik kwam niet veel echte moeilijkheden mee. Hier en daar liep ik wel vast, maar dan vond ik ook al snel een oplossing ervoor of een andere weg naar hetzelfde resultaat. Hieronder zie je mijn eindresultaat
+ 
+ ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
 
 </details>
-
-
 
 
 
@@ -177,8 +180,12 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/Css/css_font_fallbacks.asp
+2. https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
+3. https://academind.com/tutorials/adding-dark-mode
+4. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+5. https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit
+6. https://www.youtube.com/watch?v=2KL-z9A56SQ
+7. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
 
 </details>
