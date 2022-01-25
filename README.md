@@ -26,12 +26,10 @@ Surface plane
 https://www.spaghetteria.com/
  
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="./images/site.png" width="375px" alt="screenshot van de site die ik na ga maken">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+De tweede pagina heb ik zelf verzonnen, omdat mijn site een one-page site was. Wel heb ik het gebaseerd op het "reserveren" knopje bij het plaatje hierboven.
  
 </details>
 
@@ -43,10 +41,7 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownSchets.jpg" width="375px" alt="breakdown van het pagina gedeelte die ik ga uitwerken">
 
 </details>
 
@@ -153,8 +148,7 @@ Bij de meeting werd er advies gegeven over de makkelijkste en snelste manier om 
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
- 
+
 Deze week begon ik overnieuw met mijn site. Dit deed ik omdat mijn css echt een rommel was en ik dus toch voor het verkeerde schermformaat had geprogrammeerd. Uiteindelijk kreeg ik helaas niet mijn site af en ging ik voor de herkansing.
 
 </details>
@@ -162,12 +156,16 @@ Deze week begon ik overnieuw met mijn site. Dit deed ik omdat mijn css echt een 
 ## Herkansing
 
 <details>
- ### Stand van zaken
+ 
+### Stand van zaken
 De week van de herkansing had ik lekker aangepoot met mijn website maken. Het programmeren liep behoorlijk goed en ik kwam niet veel echte moeilijkheden mee. Hier en daar liep ik wel vast, maar dan vond ik ook al snel een oplossing ervoor of een andere weg naar hetzelfde resultaat. Hieronder zie je mijn eindresultaat
  
  ### Screenshot(s)
-
-hier screenshot(s) van je eindresultaat
+ <img src="./images/heleSite.png" width="375px" alt="screenshot van mijn eerste pagina">
+ 
+ <img src="./images/tweedePagina.png" width="375px" alt="screenshot van mijn tweede pagina">
+ 
+ 
 
 </details>
 
@@ -176,9 +174,6 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
-
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://www.w3schools.com/Css/css_font_fallbacks.asp
 2. https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
