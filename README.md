@@ -1,15 +1,3 @@
-# Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
-
 ## Jij
 
 <details>
@@ -60,9 +48,6 @@ hier de naam van de pagina
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -90,7 +75,7 @@ Door mijn ziekheid was ik niet aanwezig bij de eerste meeting.
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Week twee begoon ik eindelijk aan mijn code. Ik de html van de eerste site geschreven en de goede lettertypes hierop toegepast.
+Week twee begon ik eindelijk aan mijn code. Ik had de html van de eerste site geschreven en de goede lettertypes hierop toegepast.
 
  
 ### Verslag van meeting
@@ -109,29 +94,35 @@ Na de meeting met de docent kreeg ik voornamelijk als advies om goed te werk te 
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ - Knoppen moeten groot genoeg zijn. Dit is voor mensen die problemen hebben met hun ogen, maar ook als je last hebt van stuiptrekkingen.
+ - P teksten zie je niet heel goed als je een wazig zicht hebt.
+ - Contrasten waren goed alleen de rood op wit kleuren in de dark-theme niet.
+ - Bij screen reader miste ik nog een aantal alt teksten.
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Knopgroottes
+In de les had ik mijn site uitgetest met een shockapparaat aan. Dit stimuleerd hoe mensen mijn site kunnen ervaren terwijl ze stuiptrekkingen hebben.
+Het apparaat maakte mijn site moeilijker in gebruik doordat klikken erg lastig was. 
+ <img src="./images/ToegankelijkheidsTesten.jpeg" width="375px" alt="foto van mij met een schokapparaat aan mijn arm">
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Ik los dit probleem op door :hover toe te voegen aan knoppen zodat je niet de muis per se hoeft te gebruiken en door de knoppen niet te klein maken.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### P-teksten
+In de les had ik ook meerdere brillen op gedaan om te onderzoeken of mijn site dan nog steeds goed werkt. Bij de bril die je zich wazig maakt, viel mij op dat de p teksten moeilijker te lezen werden
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Ik los dit op door de teksten iets te vergroten dan de orginele site en door een knop te hebben die de teksten groter kan maken.
+
+
+#### Dark theme 
+Bij de rest van de brillen kon je het contrast van je site controleren. Bij de lichte versie van de site waren er nergens problemen, maar bij de donkere versie waren de grijze teksten moeilijk te lezen als ze een rode achtergrond hadden.
+
+Dit ga ik oplossen door de grijze tekst kleuren iets witter te maken.
+
+
+#### Alt teksten
+In de les had ik ook een screenreader gebruikt. Bij dit ontdekte ik dat ik in mijn html op sommige plekken alt teksten was vergeten.
+
+Dit los ik op door al mijn afbeeldingen na te gaan of ik overal wel alt teksten heb.
 
 </details>
 
